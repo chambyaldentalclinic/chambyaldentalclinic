@@ -1,0 +1,6 @@
+{
+  "name": "Chambyal Dental Clinic",
+  "description": "Premium dental care in Barsar, Hamirpur, Himachal Pradesh. Advanced dental implants, root canal treatment, orthodontic braces, smile designing, and pediatric care under Dr. Ankush Chambyal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
